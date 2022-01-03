@@ -11,9 +11,9 @@ public class Catcat {
         Cat smallCat = new Cat(1000, "Kuzya", 1, "White");
 //создали "маленькую кошку"
         System.out.println(sin(PI/4));
-
-
-
+        barsik.meow();
+        barsik.meow();
+        barsik.meow();
 
     }
 }
